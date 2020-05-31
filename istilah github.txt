@@ -1,1 +1,7 @@
-
+Istilah di dalam Git
+repo = folder project kita
+commit = rekaman / snapshot dari repo
+hash = penanda unik pada sebuah commit
+checkout = berpindah ke sebuah commit atau ke commit sebelumnya
+branch = cabang bebas dari sebuah commit
+merge = menggabungkan branch
