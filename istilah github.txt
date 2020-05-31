@@ -6,4 +6,7 @@ branch = cabang bebas dari sebuah commit
 merge = menggabungkan branch
 push = mengirimkan commit ke repo
 pull = mengambil commit dari repo
-masih ada yang lain
+remote = sumber yang memiliki repo
+clone = mengambil repo dari remote
+
+
